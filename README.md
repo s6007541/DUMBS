@@ -1,5 +1,5 @@
 # DUMBS : Dynamic Uncertainty Minimization with Adaptive Batch Normalization Statistic
-Pytorch Implementation of **Dynamic Uncertainty Minimization with Adaptive Batch Normalization Statistic**.  
+Pytorch Implementation of **Dynamic Uncertainty Minimization with Adaptive Batch Normalization Statistic for Graph Neural Networks**.  
 [[`Slides`](https://docs.google.com/presentation/d/1X7cJNbXaqk6-9NBSExkchBZyqPiScSFkYyTh7psmw0U/edit?usp=sharing)]
 [[`Poster`](https://github.com/s6007541/DUMBS/blob/main/pdf_files/DUMBS_poster.pdf)] 
 
